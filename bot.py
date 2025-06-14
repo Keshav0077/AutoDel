@@ -2,8 +2,8 @@ import asyncio
 from os import environ
 from pyrogram import Client, filters, idle
 
-API_ID = int(environ.get("26954495"))
-API_HASH = environ.get("2061c55207cfee4f106ff0dc331fe3d9")
+API_ID = int(environ.get("29507367"))
+API_HASH = environ.get("a99c710ea3f1530e5600d27ac8f3fe8429507367")
 BOT_TOKEN = environ.get("BOT_TOKEN")
 SESSION = environ.get("SESSION")
 TIME = int(environ.get("5"))
